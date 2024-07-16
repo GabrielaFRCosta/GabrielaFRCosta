@@ -7,7 +7,6 @@
 
 ⚪ Estudante de Ciência da Computação na Universidade de Brasília
 
-⚪ Atualmente estou estudando typescript
 
 ⚪ Amo livros, jogos e gatos
 
